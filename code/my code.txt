@@ -8,10 +8,4 @@ testing againg
 the first commit of this new feature
 - This is a line that should have been in the first commit but was discovered missing in a code review
 
-asdf!
-sdfsdfsdf
-sdfsdfs
-
-the first change!
-
-the second change!
+making first change
