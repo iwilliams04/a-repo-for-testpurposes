@@ -8,6 +8,8 @@ testing againg
 the first commit of this new feature
 - This is a line that should have been in the first commit but was discovered missing in a code review
 
-making first change
+Making first change
 
-making second change
+Making second change
+
+Making third change
